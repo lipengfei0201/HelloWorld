@@ -5,7 +5,7 @@
  * Time: 下午2:12
  * To change this： File Header
  *
- * @Description:
+ * @Description: practice for
  */
 public class Demo01_for {
     public static void main(String[] args) {
