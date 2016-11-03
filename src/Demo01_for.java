@@ -12,7 +12,7 @@ public class Demo01_for {
 
         /*
         * 数字循环
-        * */
+        */
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
@@ -20,14 +20,14 @@ public class Demo01_for {
         /*
         * 数组循环
         *
-        * */
+        */
         String[] greeting = new String[3];
         greeting[0] = "hello,";
         greeting[1] = "几米阳光,";
         greeting[2] = "welcome to java ";
 
-        for (String g : greeting){
+        for (String g : greeting) {
             System.out.print(g);
         }
-     }
+    }
 }
