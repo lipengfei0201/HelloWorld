@@ -9,7 +9,7 @@
  * Time: 21:24
  * To change this： File Header
  *
- * @Description: 继承的基本实现类的继承格式
+ * @Description: 继承的基本实现类的继承格式       http://blog.csdn.net/e421083458/article/details/8439860
  */
 public class ExtendsDemo {
     public static void main(String[] args) {
