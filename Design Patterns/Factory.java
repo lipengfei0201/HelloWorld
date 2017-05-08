@@ -5,7 +5,7 @@
  * Time: 上午10:18
  * To change this： File Header
  *
- * @Description:设计模式之工厂模式
+ * @Description:设计模式 之 工厂模式
  */
 public class Factory {
 }
